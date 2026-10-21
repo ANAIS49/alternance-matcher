@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+streamlit
+matplotlib
+# Optionnel : embeddings neuronaux multilingues (meilleur matching)
+# sentence-transformers
+# Optionnel : explications générées par un LLM
+# anthropic
